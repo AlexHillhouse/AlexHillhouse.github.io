@@ -1,17 +1,17 @@
 body {
- background-color: #cyan;
+ background-color: #AFFF16;
  font-family: Arial, Helvetica, sans-serif;
  display: flex;
  flex-wrap: wrap;
 }
 h1 {
- color: red;
+ color: maroon;
  text-align: center;
  width: 100%;
  display: block;
 }
 h1:hover {
- color: green;
+ color: hotpink;
  text-align: center;
  width: 100%;
  display: block;
@@ -21,7 +21,7 @@ a {
  color: black;
 }
 .assign {
- background-color: orange;
+ background-color: grey;
  margin: 10px;
  padding: 10px;
  border-radius: 20px;
